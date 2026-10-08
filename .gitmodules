@@ -1,0 +1,4 @@
+[submodule "tokentrade-web"]
+	path = tokentrade-web
+	url = git@github.com:hanjingo/tokentrade-web.git
+	branch = main
