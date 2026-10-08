@@ -2,3 +2,7 @@
 	path = tokentrade-web
 	url = git@github.com:hanjingo/tokentrade-web.git
 	branch = main
+[submodule "tokentrade-core"]
+	path = tokentrade-core
+	url = git@github.com:hanjingo/tokentrade-core.git
+	branch = main
